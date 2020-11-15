@@ -1,1 +1,1 @@
-# chat-manager
+# Chat Manager
